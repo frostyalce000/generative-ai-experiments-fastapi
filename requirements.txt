@@ -1,0 +1,7 @@
+torch==2.4.0
+diffusers==0.30.0
+fastapi
+accelerate
+transformers
+soundfile
+numpy
